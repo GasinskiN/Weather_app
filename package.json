@@ -1,0 +1,16 @@
+{
+  "name": "weather-site",
+  "version": "1.0.0",
+  "description": "A web app that gives you the current weather",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Norman Gasinski",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
