@@ -1,4 +1,4 @@
-# wearher_app
+# weather_app
 A simple app showing the weather, my first time using an API
 Used modules: express, body-parser
 
