@@ -1,6 +1,6 @@
 # weather_app
 A simple app showing the weather, my first time using an API
-Used modules: express, body-parser
+Used modules: express
 
 To use this app yourself you need to get an api key for openweather, add it to 
 your environmental variables under the name: "OPENWEATHER_API_KEY" than you can
